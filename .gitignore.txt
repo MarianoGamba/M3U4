@@ -1,5 +1,6 @@
-bin
-node_modules
-public
-routes
-views
+bin/
+node_modules/
+public/
+routes/
+views/
+M3U4/
